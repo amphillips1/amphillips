@@ -15,8 +15,8 @@ Advanced spatial analysis and data science for urban planning and public policy.
 - **Final Project:** Capstone modeling challenge
 
 ## About Me
-[Students will customize this section]
+[I'm a first-year student in the Master's of Environmental Studies program, focusing on building decarbonization and clean energy. I come to the program after a career as a climate and environmental journalist and I'm taking this class in hopes of applying its lessons to my capstone.]
 
 ## Contact
-- Email: [your.email@upenn.edu]
-- GitHub: [@your-username]
+- Email: [phillip4@sas.upenn.edu]
+- GitHub: [@amphillips1]
